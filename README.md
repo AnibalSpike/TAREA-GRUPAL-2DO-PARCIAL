@@ -1,5 +1,4 @@
 # ProyectoGrupal-Constructores-y-Conductores2
-DEBERES-TALLER-PROYECTOS
 Para este proyecto se ha pedido hacer una interfaz donde se presenten los datos de los consturctores y conductores de la F1 pero con los datos de la base de datos, en esta ocasión se realizó con Postgres.
 
 
@@ -7,14 +6,14 @@ Para este proyecto se ha pedido hacer una interfaz donde se presenten los datos 
 
 
 
-En primer lugar creamos un ventan de presentar las 2 opcioens (conductores y constructores) para que el usuario escoja una de ella. 
-Si el usuario presiona el boton de "Ver Resultados de Conductores" saldra una pequela ventan emergente vacia: 
+se  creo una ventana de presentar  2 opcioens (conductores y constructores) para que el usuario elija una de ella. 
+Si el usuario presiona el boton de "Ver Resultados de Conductores" saldra una pequeña ventana emergente vacia: 
 
 
 ![image](https://github.com/user-attachments/assets/eb7c2b21-703c-41c1-8ce1-e34c2ac33a4d)
 
 
-El usuario debera de seleccionar un año y se presentará los datos a continuación: 
+El usuario debera de seleccionar cualquier  año y se presentará los datos de ese año a continuación: 
 
 ![image](https://github.com/user-attachments/assets/95d3faa7-d37f-4617-ac70-61996c3cc001)
 
@@ -25,8 +24,8 @@ El usuario debera de seleccionar un año y se presentará los datos a continuaci
 ![image](https://github.com/user-attachments/assets/95bcb1ee-e8e8-4575-8d6f-43304d9bb67d)
 
 
+de igual forma si queremos los constructores, haremos de la misma forma que antes.
 
-Ahora en el caso de los Constructores es igual, se indica que año va a buscar los datos y se los presenta: 
 ![image](https://github.com/user-attachments/assets/42bbda2f-b325-406f-9124-3e8adddd246e)
 
 
